@@ -26,7 +26,7 @@
     "label": "Czas3"
   },
   {
-    "field": "checkbox",
+    "field": "checkbox2",
     "type": "CHECKBOX",
     "label": "Checkbox"
   },
@@ -41,7 +41,7 @@
     "label": "Nazwa3"
   },
   {
-    "field": "checkbox",
+    "field": "checkbox3",
     "type": "CHECKBOX",
     "label": "Checkbox"
   }
