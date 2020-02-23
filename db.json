@@ -5,10 +5,20 @@
     "type": "DATETIME",
     "label": "Czas"
   },
+    {
+    "type": "PICTURE",
+    "url": "https://picsum.photos/300/200",
+    "label": "Obrazek"
+  },
   {
     "field": "date2",
     "type": "DATETIME",
     "label": "Czas2"
+  },
+   {
+    "field": "name1",
+    "type": "EDITTEXT",
+    "label": "Nazwa1"
   },
   {
     "field": "date3",
@@ -20,10 +30,20 @@
     "type": "CHECKBOX",
     "label": "Checkbox"
   },
+   {
+    "field": "name2",
+    "type": "EDITTEXT",
+    "label": "Nazwa2"
+  },
+   {
+    "field": "name3",
+    "type": "EDITTEXT",
+    "label": "Nazwa3"
+  },
   {
-    "type": "PICTURE",
-    "url": "https://picsum.photos/300/200",
-    "label": "Obrazek"
+    "field": "checkbox",
+    "type": "CHECKBOX",
+    "label": "Checkbox"
   }
 ]
 }
